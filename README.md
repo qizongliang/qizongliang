@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="http://www.github.com/qizongliang"><img src="https://github-readme-stats.vercel.app/api?username=qizongliang&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=7AFFEF&bg_color=18171C&hide_border=true&show_icons=true"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qizongliang&show_icons=true&theme=tokyonight)
 <!--
 **qizongliang/qizongliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
