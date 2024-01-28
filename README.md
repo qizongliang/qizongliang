@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Qizong Liang
+### Hi there 👋 My name is Qi Zong Liang
 
 - :envelope: [qizongliang@gmail.com](mailto:qizongliang@gmail.com)
 
